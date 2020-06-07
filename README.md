@@ -1,7 +1,6 @@
 # ReactBaidu
 
 
-test third
+用React进行百度首页布局
 
-testkey 0606
-
+src仅看Baidu文件夹即可
